@@ -1,0 +1,20 @@
+# Бинарники
+/bin/
+/server
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+.env
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Тестовое покрытие
+*.out
