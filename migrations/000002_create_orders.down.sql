@@ -1,5 +1,5 @@
-/*
-откатывает ее
-*/
+
+--откатывает ее
+
 
 DROP TABLE IF EXISTS orders;
